@@ -3,7 +3,7 @@ entries:
   mynginx:
   - apiVersion: v2
     appVersion: v1.0
-    created: "2020-03-26T17:20:27.439709816+09:00"
+    created: "2020-03-27T14:47:43.847459337+09:00"
     description: This is new nginx docker image with static template load
     digest: fbe785d37d34c573f98c00ff3a2ad3aa03e684a9231a7535d2ed04e56d30011c
     name: mynginx
@@ -11,4 +11,4 @@ entries:
     urls:
     - mynginx-0.1.0.tgz
     version: 0.1.0
-generated: "2020-03-26T17:20:27.438917357+09:00"
+generated: "2020-03-27T14:47:43.846711807+09:00"
